@@ -1,2 +1,3 @@
 rootProject.name = 'MiscServerUtils-Command'
+include "MSU-Core:MiscServerUtils-Core"
 

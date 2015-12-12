@@ -4,6 +4,7 @@
 
 # Except These
 !/.gitignore
+!/MSU-Core
 !/src/
 !/gradle/
 !/gradlew
