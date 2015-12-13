@@ -1,3 +1,4 @@
 rootProject.name = 'MiscServerUtils-Command'
-include "MSU-Core:MiscServerUtils-Core"
+include "MiscServerUtils-Core"
 
+project(":MiscServerUtils-Core").projectDir = file("MSU-Core")
